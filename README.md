@@ -67,12 +67,8 @@ Zip Download the Repository and Extract it's contents.
 
 ### ➕ Expense Tracker
 
-<p align="center">
-  <img src="client\public\img\tracker.png" width="700" alt="Intial View of App">
-</p>
-
 
 <p align='center'>
     <b>Made with ❤ by </b>
-    <a href="https://github.com/sakshgupta">@sakshgupta</a>
+    <a href="https://github.com/ssp10920029060/">@SiddheshPatil</a>
 </p>
